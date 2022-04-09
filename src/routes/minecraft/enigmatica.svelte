@@ -50,7 +50,7 @@
             <li><p>Click on "Add Instance" in the top left corner</p></li>
             <li><p>Click on CurseForge</p></li>
             <li><p>Search for Enigmatica</p></li>
-            <li><p>Select Enigmatica 6 Expert, version 1.0.0, and press "OK"</p></li>
+            <li><p>Select Enigmatica 6 Expert, version 1.1.2, and press "OK"</p></li>
         </ol>
         <h2>Set up JVM args and RAM</h2>
         <ol>
