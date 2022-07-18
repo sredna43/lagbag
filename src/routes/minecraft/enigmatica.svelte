@@ -46,13 +46,14 @@
         </ol>
         <h2>Install Enigmatica 6 Expert Pack via CurseForge:</h2>
         <ol>
-            <li><p>First off, you'll have to install the<a class="javalink" href="http://download.curseforge.com/">CurseForge App</a> Yes, it's annoying and bloaty, no I don't like it, no there's no other option right now... Sorry.</p></li>
-            <li><p>Then, install <a class="javalink" href="https://www.curseforge.com/minecraft/modpacks/enigmatica6expert/files">Enigmatica 6 Expert</a> (current server version is 1.4.1). You should be able to use the "Install" button on the CurseForge website.</p></li>
+            <li><p>First off, you'll have to install the<a href="http://download.curseforge.com/">CurseForge App</a> Yes, it's annoying and bloaty, no I don't like it, no there's no other option right now... Sorry.</p></li>
+            <li><p>Then, install <a href="https://www.curseforge.com/minecraft/modpacks/enigmatica6expert/files">Enigmatica 6 Expert</a> (current server version is 1.4.1). You should be able to use the "Install" button on the CurseForge website.</p></li>
             <li><p>Thankfully, this is the last you'll have to see of the CurseForge app itself (unless you just want to use it, which is totally fine too in which case you're done).</p></li>
         </ol>
         <h2>Add Enigmatica 6 Expert Instance to MultiMC:</h2>
         <a href="https://github.com/MultiMC/Launcher/wiki/Manually-importing-modpacks">Follow the instructions on this page, use Forge version 36.2.34</a>
-        
+        <p>Basically, you download the modpack from CurseForge and then copy the files into MultiMC. This is because CurseForge recently made some changes to their API license or something and totally screwed up what used to be an easy process. Not that I'm bitter.</p>
+        <p>You can also use this guide, which may be easier in the long run: <a href="https://www.reddit.com/r/feedthebeast/comments/8itxun/guide_using_twitch_to_downloadupdate_packs_whilst/">Guide to Using Twitch (CurseForge) to download and update packs whilst using MultiMC to play</a></p>
         <h2>Set up JVM args and RAM</h2>
         <ol>
             <li><p>Click on your new Enigmatica 6 instance</p></li>
