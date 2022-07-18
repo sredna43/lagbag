@@ -44,14 +44,15 @@
                 </ol>
             </li>
         </ol>
-        <h2>Add Enigmatica 6 Expert Instance:</h2>
+        <h2>Install Enigmatica 6 Expert Pack via CurseForge:</h2>
         <ol>
-            <li><p>Open MultiMC</p></li>
-            <li><p>Click on "Add Instance" in the top left corner</p></li>
-            <li><p>Click on CurseForge</p></li>
-            <li><p>Search for Enigmatica</p></li>
-            <li><p>Select Enigmatica 6 Expert, version 1.1.2, and press "OK"</p></li>
+            <li><p>First off, you'll have to install the<a class="javalink" href="http://download.curseforge.com/">CurseForge App</a> Yes, it's annoying and bloaty, no I don't like it, no there's no other option right now... Sorry.</p></li>
+            <li><p>Then, install <a class="javalink" href="https://www.curseforge.com/minecraft/modpacks/enigmatica6expert/files">Enigmatica 6 Expert</a> (current server version is 1.4.1). You should be able to use the "Install" button on the CurseForge website.</p></li>
+            <li><p>Thankfully, this is the last you'll have to see of the CurseForge app itself (unless you just want to use it, which is totally fine too in which case you're done).</p></li>
         </ol>
+        <h2>Add Enigmatica 6 Expert Instance to MultiMC:</h2>
+        <a href="https://github.com/MultiMC/Launcher/wiki/Manually-importing-modpacks">Follow the instructions on this page, use Forge version 36.2.34</a>
+        
         <h2>Set up JVM args and RAM</h2>
         <ol>
             <li><p>Click on your new Enigmatica 6 instance</p></li>
